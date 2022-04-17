@@ -1,0 +1,75 @@
+C:\Users\SAgramonte\Documents\Diseño y desarrollo de aplicaciones\InventorySet\InventorySet\bin\Debug\InventorySet.exe.config
+C:\Users\SAgramonte\Documents\Diseño y desarrollo de aplicaciones\InventorySet\InventorySet\bin\Debug\InventorySet.exe
+C:\Users\SAgramonte\Documents\Diseño y desarrollo de aplicaciones\InventorySet\InventorySet\bin\Debug\InventorySet.pdb
+C:\Users\SAgramonte\Documents\Diseño y desarrollo de aplicaciones\InventorySet\InventorySet\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\SAgramonte\Documents\Diseño y desarrollo de aplicaciones\InventorySet\InventorySet\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\SAgramonte\Documents\Diseño y desarrollo de aplicaciones\InventorySet\InventorySet\bin\Debug\Google.Protobuf.dll
+C:\Users\SAgramonte\Documents\Diseño y desarrollo de aplicaciones\InventorySet\InventorySet\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\SAgramonte\Documents\Diseño y desarrollo de aplicaciones\InventorySet\InventorySet\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\SAgramonte\Documents\Diseño y desarrollo de aplicaciones\InventorySet\InventorySet\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\SAgramonte\Documents\Diseño y desarrollo de aplicaciones\InventorySet\InventorySet\bin\Debug\MySql.Data.dll
+C:\Users\SAgramonte\Documents\Diseño y desarrollo de aplicaciones\InventorySet\InventorySet\bin\Debug\System.Buffers.dll
+C:\Users\SAgramonte\Documents\Diseño y desarrollo de aplicaciones\InventorySet\InventorySet\bin\Debug\System.Memory.dll
+C:\Users\SAgramonte\Documents\Diseño y desarrollo de aplicaciones\InventorySet\InventorySet\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\SAgramonte\Documents\Diseño y desarrollo de aplicaciones\InventorySet\InventorySet\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\SAgramonte\Documents\Diseño y desarrollo de aplicaciones\InventorySet\InventorySet\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\SAgramonte\Documents\Diseño y desarrollo de aplicaciones\InventorySet\InventorySet\bin\Debug\ZstdNet.dll
+C:\Users\SAgramonte\Documents\Diseño y desarrollo de aplicaciones\InventorySet\InventorySet\bin\Debug\Google.Protobuf.pdb
+C:\Users\SAgramonte\Documents\Diseño y desarrollo de aplicaciones\InventorySet\InventorySet\bin\Debug\Google.Protobuf.xml
+C:\Users\SAgramonte\Documents\Diseño y desarrollo de aplicaciones\InventorySet\InventorySet\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\SAgramonte\Documents\Diseño y desarrollo de aplicaciones\InventorySet\InventorySet\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\SAgramonte\Documents\Diseño y desarrollo de aplicaciones\InventorySet\InventorySet\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\SAgramonte\Documents\Diseño y desarrollo de aplicaciones\InventorySet\InventorySet\bin\Debug\MySql.Data.xml
+C:\Users\SAgramonte\Documents\Diseño y desarrollo de aplicaciones\InventorySet\InventorySet\bin\Debug\System.Buffers.xml
+C:\Users\SAgramonte\Documents\Diseño y desarrollo de aplicaciones\InventorySet\InventorySet\bin\Debug\System.Memory.xml
+C:\Users\SAgramonte\Documents\Diseño y desarrollo de aplicaciones\InventorySet\InventorySet\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\SAgramonte\Documents\Diseño y desarrollo de aplicaciones\InventorySet\InventorySet\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\SAgramonte\Documents\Diseño y desarrollo de aplicaciones\InventorySet\InventorySet\obj\Debug\InventorySet.csprojAssemblyReference.cache
+C:\Users\SAgramonte\Documents\Diseño y desarrollo de aplicaciones\InventorySet\InventorySet\obj\Debug\InventorySet.Properties.Resources.resources
+C:\Users\SAgramonte\Documents\Diseño y desarrollo de aplicaciones\InventorySet\InventorySet\obj\Debug\InventorySet.csproj.GenerateResource.cache
+C:\Users\SAgramonte\Documents\Diseño y desarrollo de aplicaciones\InventorySet\InventorySet\obj\Debug\InventorySet.csproj.CopyComplete
+C:\Users\SAgramonte\Documents\Diseño y desarrollo de aplicaciones\InventorySet\InventorySet\obj\Debug\InventorySet.exe
+C:\Users\SAgramonte\Documents\Diseño y desarrollo de aplicaciones\InventorySet\InventorySet\obj\Debug\InventorySet.pdb
+C:\Users\SAgramonte\Documents\Diseño y desarrollo de aplicaciones\InventorySet\InventorySet\obj\Debug\InventorySet.Views.Inventory.resources
+C:\Users\SAgramonte\Documents\Diseño y desarrollo de aplicaciones\InventorySet\InventorySet\obj\Debug\InventorySet.Views.Product.resources
+C:\Users\SAgramonte\Documents\Diseño y desarrollo de aplicaciones\InventorySet\InventorySet\obj\Debug\InventorySet.Views.Product_category.resources
+C:\Users\SAgramonte\Documents\Diseño y desarrollo de aplicaciones\InventorySet\InventorySet\obj\Debug\InventorySet.Views.Location.resources
+C:\FCCsanuelAgramonte\tecnicofcc\InventorySet\InventorySet\bin\Debug\InventorySet.exe.config
+C:\FCCsanuelAgramonte\tecnicofcc\InventorySet\InventorySet\bin\Debug\InventorySet.exe
+C:\FCCsanuelAgramonte\tecnicofcc\InventorySet\InventorySet\bin\Debug\InventorySet.pdb
+C:\FCCsanuelAgramonte\tecnicofcc\InventorySet\InventorySet\bin\Debug\BouncyCastle.Crypto.dll
+C:\FCCsanuelAgramonte\tecnicofcc\InventorySet\InventorySet\bin\Debug\FontAwesome.Sharp.dll
+C:\FCCsanuelAgramonte\tecnicofcc\InventorySet\InventorySet\bin\Debug\Google.Protobuf.dll
+C:\FCCsanuelAgramonte\tecnicofcc\InventorySet\InventorySet\bin\Debug\K4os.Compression.LZ4.dll
+C:\FCCsanuelAgramonte\tecnicofcc\InventorySet\InventorySet\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\FCCsanuelAgramonte\tecnicofcc\InventorySet\InventorySet\bin\Debug\K4os.Hash.xxHash.dll
+C:\FCCsanuelAgramonte\tecnicofcc\InventorySet\InventorySet\bin\Debug\MySql.Data.dll
+C:\FCCsanuelAgramonte\tecnicofcc\InventorySet\InventorySet\bin\Debug\System.Buffers.dll
+C:\FCCsanuelAgramonte\tecnicofcc\InventorySet\InventorySet\bin\Debug\System.Memory.dll
+C:\FCCsanuelAgramonte\tecnicofcc\InventorySet\InventorySet\bin\Debug\System.Numerics.Vectors.dll
+C:\FCCsanuelAgramonte\tecnicofcc\InventorySet\InventorySet\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\FCCsanuelAgramonte\tecnicofcc\InventorySet\InventorySet\bin\Debug\Ubiety.Dns.Core.dll
+C:\FCCsanuelAgramonte\tecnicofcc\InventorySet\InventorySet\bin\Debug\ZstdNet.dll
+C:\FCCsanuelAgramonte\tecnicofcc\InventorySet\InventorySet\bin\Debug\Google.Protobuf.pdb
+C:\FCCsanuelAgramonte\tecnicofcc\InventorySet\InventorySet\bin\Debug\Google.Protobuf.xml
+C:\FCCsanuelAgramonte\tecnicofcc\InventorySet\InventorySet\bin\Debug\K4os.Compression.LZ4.xml
+C:\FCCsanuelAgramonte\tecnicofcc\InventorySet\InventorySet\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\FCCsanuelAgramonte\tecnicofcc\InventorySet\InventorySet\bin\Debug\K4os.Hash.xxHash.xml
+C:\FCCsanuelAgramonte\tecnicofcc\InventorySet\InventorySet\bin\Debug\MySql.Data.xml
+C:\FCCsanuelAgramonte\tecnicofcc\InventorySet\InventorySet\bin\Debug\System.Buffers.xml
+C:\FCCsanuelAgramonte\tecnicofcc\InventorySet\InventorySet\bin\Debug\System.Memory.xml
+C:\FCCsanuelAgramonte\tecnicofcc\InventorySet\InventorySet\bin\Debug\System.Numerics.Vectors.xml
+C:\FCCsanuelAgramonte\tecnicofcc\InventorySet\InventorySet\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\FCCsanuelAgramonte\tecnicofcc\InventorySet\InventorySet\obj\Debug\InventorySet.csproj.AssemblyReference.cache
+C:\FCCsanuelAgramonte\tecnicofcc\InventorySet\InventorySet\obj\Debug\InventorySet.Properties.Resources.resources
+C:\FCCsanuelAgramonte\tecnicofcc\InventorySet\InventorySet\obj\Debug\InventorySet.Views.Inventory.resources
+C:\FCCsanuelAgramonte\tecnicofcc\InventorySet\InventorySet\obj\Debug\InventorySet.Views.Location.resources
+C:\FCCsanuelAgramonte\tecnicofcc\InventorySet\InventorySet\obj\Debug\InventorySet.Views.Product.resources
+C:\FCCsanuelAgramonte\tecnicofcc\InventorySet\InventorySet\obj\Debug\InventorySet.Views.Product_category.resources
+C:\FCCsanuelAgramonte\tecnicofcc\InventorySet\InventorySet\obj\Debug\InventorySet.csproj.GenerateResource.cache
+C:\FCCsanuelAgramonte\tecnicofcc\InventorySet\InventorySet\obj\Debug\InventorySet.csproj.CoreCompileInputs.cache
+C:\FCCsanuelAgramonte\tecnicofcc\InventorySet\InventorySet\obj\Debug\InventorySet.exe
+C:\FCCsanuelAgramonte\tecnicofcc\InventorySet\InventorySet\obj\Debug\InventorySet.pdb
+C:\FCCsanuelAgramonte\tecnicofcc\InventorySet\InventorySet\obj\Debug\InventorySet.Views.Form1.resources
+C:\FCCsanuelAgramonte\tecnicofcc\InventorySet\InventorySet\obj\Debug\InventorySet.csproj.SuggestedBindingRedirects.cache
+C:\FCCsanuelAgramonte\tecnicofcc\InventorySet\InventorySet\obj\Debug\InventorySet.csproj.CopyComplete
