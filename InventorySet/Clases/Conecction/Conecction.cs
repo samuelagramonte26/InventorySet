@@ -77,6 +77,7 @@ namespace InventorySet.Clases.Conecction
         {
             try
             {
+                Console.WriteLine(sql);
                 connect();
                 command = connector.CreateCommand();
                 command.CommandText = sql;

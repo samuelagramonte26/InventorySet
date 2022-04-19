@@ -134,6 +134,12 @@
     <Compile Include="Views\Location.Designer.cs">
       <DependentUpon>Location.cs</DependentUpon>
     </Compile>
+    <Compile Include="Views\Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
     <Compile Include="Views\Main.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -187,6 +193,12 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Views\Location.resx">
       <DependentUpon>Location.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Main.resx">
+      <DependentUpon>Main.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Views\Product.resx">
       <DependentUpon>Product.cs</DependentUpon>

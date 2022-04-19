@@ -17,7 +17,7 @@ namespace InventorySet
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Views.Product_category());
+            Application.Run(new Views.Login());
         }
     }
 }
